@@ -1,7 +1,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = "tune";
+const nuevaString = 'zafira';
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 2;
@@ -16,7 +16,7 @@ const nuevaResta = 10 - 5=== 5;
 const nuevaMultiplicacion = 10 * 4 === 40 ;
 
 // Resuelve el siguiente problema matemático:
-const nuevoModulo = 21 % 5 === null;
+const nuevoModulo = 21 % 5 === 5;
 
 
 // En los próximos 22 problemas, deberás completar la función.
@@ -31,26 +31,25 @@ function devolverString(str) {
   
 }
 
-function suma(x, y) {
+function suma(x22,y22) { 44;
   // "x" e "y" son números
-  // Suma "x" e "y" juntos y devuelve el valor
-  // Tu código:
+  // Suma "x" e "y" juntos y devuelve el va  // Tu código:212321
   
 }
 
-function resta(x, y) {
+function resta(5-10 = 5){ 5-10 === 5; const nuevaResta}
   // Resta "y" de "x" y devuelve el valor
-  // Tu código:
+  // Tu código:const nuevaresta
   
-}
+]
 
-function multiplica(x, y) {
+function multiplica(x5, y10) { 50;
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
   
 }
 
-function divide(x, y) {
+function divide(x25, y5) {  5;
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
   
@@ -75,6 +74,12 @@ function menosQueNoventa(num) {
   // De lo contrario, devuelve "false"
   // Tu código:
   
+    if ( num < 90) {
+      return true;
+    }else{
+      return false;
+    }
+  }
 }
 
 function mayorQueCincuenta(num) {
